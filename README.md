@@ -92,12 +92,12 @@ const shang = {
       <p align="center">Ten Claude heroes, one codebase. Multi-worktree sessions with guard hooks keeping everyone in line.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/ShangChienLiu/vispo-web">📚 Vispo</a></h3>
+      <h3 align="center"><a href="https://github.com/ShangChienLiu/HCFPS">☁️ HCFPS</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/github/stars/ShangChienLiu/vispo-web?color=FF3860&labelColor=1A1B27" alt="stars">
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/github/stars/ShangChienLiu/HCFPS?color=FF3860&labelColor=1A1B27" alt="stars">
       </p>
-      <p align="center">AI tutoring platform — personalized learning with LLMs. Landing page and core platform.</p>
+      <p align="center">Hybrid cloud file processing system — distributed pipelines across on-prem + public cloud.</p>
     </td>
   </tr>
   <tr>
@@ -149,12 +149,6 @@ const shang = {
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShangChienLiu&theme=tokyonight&hide_border=true&background=1A1B27&stroke=FF3860&ring=FF3860&fire=FF3860&currStreakLabel=FF3860" height="170" alt="streak">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShangChienLiu&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=FF3860&line=FF3860&point=FFFFFF&area=true&area_color=FF3860" height="170" alt="activity graph">
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShangChienLiu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies">
-  </a>
 </p>
 
 ---
