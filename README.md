@@ -1,77 +1,110 @@
-<h1 align="center">
+<a href="https://github.com/ShangChienLiu">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:ff3860,100:0a66c2&height=220&section=header&text=Shang%20Chien%20Liu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20engineer%20%C2%B7%20indie%20builder%20%C2%B7%20mac%20tinkerer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header banner">
+</a>
+
+<p align="center">
   <a href="https://a637i.top/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=FF3860&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Shang+Chien+Liu+%F0%9F%91%8B;AI+Engineer+%C2%B7+Indie+Builder+%C2%B7+Mac+Tinkerer;Shipping+agentic+dev+tools+from+my+notch" alt="typing header">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=FF3860&center=true&vCenter=true&width=640&lines=Shipping+agentic+dev+tools+from+my+Mac+notch+%F0%9F%A5%8B;Breaking+things+in+Swift%2C+TypeScript%2C+and+Python;10%25+ML+%C2%B7+30%25+coffee+%C2%B7+60%25+bad+ideas+that+work;%22Just+a+little+newbie.%22+%E2%80%94+still+true%2C+still+shipping" alt="typing tagline">
   </a>
-</h1>
+</p>
 
 <p align="center">
   <a href="https://a637i.top/"><img src="https://img.shields.io/badge/Portfolio-637techlife-FF3860?style=for-the-badge&logo=hexo&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/shangchienliu/"><img src="https://img.shields.io/badge/LinkedIn-Shang_Chien_Liu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/table_k_tennis"><img src="https://img.shields.io/badge/Instagram-table__k__tennis-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://github.com/ShangChienLiu"><img src="https://komarev.com/ghpvc/?username=ShangChienLiu&color=FF3860&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"></a>
+  <img src="https://komarev.com/ghpvc/?username=ShangChienLiu&color=FF3860&style=for-the-badge&label=VIEWS" alt="Profile views">
+  <a href="https://github.com/ShangChienLiu?tab=followers"><img src="https://img.shields.io/github/followers/ShangChienLiu?style=for-the-badge&color=FF3860&labelColor=1A1B27&logo=github" alt="Followers"></a>
 </p>
 
 ---
 
 ### 🧠 About
 
-```yaml
-name:       Shang Chien Liu (637)
-role:       AI Engineer · Indie Builder
-location:   Earth 🌎 (mostly Mac notch)
-building:   AI-native dev tools, agentic pipelines, tiny Mac apps
-learning:   Robot policies, multi-agent orchestration, LLM evals
-playing:   Table tennis 🏓 · swinging whips at Claude
-fuel:      ☕️ caffeine + ⚡️ bad ideas shipped fast
+```ts
+const shang = {
+  name:      '劉尚謙 (637)',
+  role:      ['AI engineer', 'indie builder'],
+  location:  'Taiwan 🇹🇼',
+  building:  ['Vispo', 'ai-dev-os', 'WhipIsland', '10heros'],
+  learning:  ['agentic orchestration', 'LLM evals', 'robot policies'],
+  playing:   ['table tennis 🏓', 'cracking whips at slow Claude'],
+  fuel:      '☕️ + ⚡️ bad ideas shipped fast',
+};
 ```
 
-### 🚧 Currently building
+### 🛠️ Stack I reach for
 
-| | Project | What it does |
-|---|---|---|
-| 🥋 | **[WhipIsland](https://github.com/ShangChienLiu/WhipIsland)** | Mac notch app with a whip mode — physically crack a whip at slow Claude sessions. |
-| 📚 | **[Vispo](https://github.com/ShangChienLiu/vispo)** | AI tutoring platform — personalized learning with LLMs. ([landing](https://github.com/ShangChienLiu/vispo-web)) |
-| 🛠️ | **[ai-dev-os](https://github.com/ShangChienLiu/ai-dev-os)** | 14-stage AI engineering pipeline as a Claude Code plugin. |
-| 🦸 | **[10heros](https://github.com/ShangChienLiu/10heros)** | Ten Claude heroes, one codebase — multi-worktree sessions with guard hooks. |
-| 🧬 | **[echelonos](https://github.com/ShangChienLiu/echelonos)** | Agentic OS experiments — Python-first. |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,swift,ts,react,nextjs,nodejs,pytorch,tensorflow,anaconda,aws,docker,supabase,postgres,electron,tailwind,git,github,vscode,figma,linux&perline=10" alt="skill icons">
+  </a>
+</p>
 
-### 🛠️ Tech stack
+---
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white">
-  <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
-  <img alt="Claude" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
+### 🚧 Featured projects
+
+<p align="center">
+  <a href="https://github.com/ShangChienLiu/WhipIsland">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShangChienLiu&repo=WhipIsland&theme=tokyonight&hide_border=true&icon_color=FF3860&title_color=FF3860&bg_color=1A1B27" alt="WhipIsland">
+  </a>
+  <a href="https://github.com/ShangChienLiu/ai-dev-os">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShangChienLiu&repo=ai-dev-os&theme=tokyonight&hide_border=true&icon_color=FF3860&title_color=FF3860&bg_color=1A1B27" alt="ai-dev-os">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ShangChienLiu/10heros">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShangChienLiu&repo=10heros&theme=tokyonight&hide_border=true&icon_color=FF3860&title_color=FF3860&bg_color=1A1B27" alt="10heros">
+  </a>
+  <a href="https://github.com/ShangChienLiu/vispo-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShangChienLiu&repo=vispo-web&theme=tokyonight&hide_border=true&icon_color=FF3860&title_color=FF3860&bg_color=1A1B27" alt="vispo-web">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ShangChienLiu/echelonos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShangChienLiu&repo=echelonos&theme=tokyonight&hide_border=true&icon_color=FF3860&title_color=FF3860&bg_color=1A1B27" alt="echelonos">
+  </a>
+  <a href="https://github.com/ShangChienLiu/637techlife.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShangChienLiu&repo=637techlife.github.io&theme=tokyonight&hide_border=true&icon_color=FF3860&title_color=FF3860&bg_color=1A1B27" alt="637techlife">
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShangChienLiu/ShangChienLiu/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShangChienLiu/ShangChienLiu/output/github-snake.svg">
+    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/ShangChienLiu/ShangChienLiu/output/github-snake.svg">
+  </picture>
 </p>
 
 ### 📊 GitHub in motion
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShangChienLiu&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF3860&title_color=FF3860&count_private=true&include_all_commits=true" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShangChienLiu&theme=tokyonight&hide_border=true&stroke=FF3860&ring=FF3860&fire=FF3860&currStreakLabel=FF3860" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShangChienLiu&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF3860&title_color=FF3860&bg_color=1A1B27&count_private=true&include_all_commits=true" height="170" alt="stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShangChienLiu&theme=tokyonight&hide_border=true&background=1A1B27&stroke=FF3860&ring=FF3860&fire=FF3860&currStreakLabel=FF3860" height="170" alt="streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShangChienLiu&layout=compact&theme=tokyonight&hide_border=true&title_color=FF3860&langs_count=10" height="170">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShangChienLiu&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=FF3860&line=FF3860&point=FFFFFF&area=true&area_color=FF3860" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShangChienLiu&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=FF3860&langs_count=10" height="170" alt="top langs">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShangChienLiu&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=FF3860&line=FF3860&point=FFFFFF&area=true&area_color=FF3860" height="170" alt="activity graph">
 </p>
-
-### 🏆 Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ShangChienLiu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies">
   </a>
+</p>
+
+---
+
+### 💬 Quote that still works at 2 AM
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote">
 </p>
 
 ### ✍️ From the blog — [637techlife](https://a637i.top/)
@@ -84,10 +117,12 @@ fuel:      ☕️ caffeine + ⚡️ bad ideas shipped fast
 - [Driving-in-GoogleMap](https://a637i.top/2023/12/24/Driving-in-GoogleMap/)
 <!-- BLOG-POST-LIST:END -->
 
-> Auto-refreshed daily by [`.github/workflows/blog-posts.yml`](.github/workflows/blog-posts.yml).
+<sub>🤖 auto-refreshed daily — see <a href=".github/workflows/blog-posts.yml">.github/workflows/blog-posts.yml</a></sub>
+
+---
 
 ### 🤝 Say hi
 
-If you build agentic things, tinker with Mac internals, or just need someone to yell `Ctrl-C` at your Claude session for you — [find me on LinkedIn](https://www.linkedin.com/in/shangchienliu/) or [read the blog](https://a637i.top/).
+If you build agentic things, tinker with Mac internals, or need someone to yell `Ctrl-C` at your Claude session for you — [LinkedIn](https://www.linkedin.com/in/shangchienliu/) · [blog](https://a637i.top/) · [IG](https://www.instagram.com/table_k_tennis).
 
-<p align="center"><sub>✨ "Just a little newbie." — still true, still shipping.</sub></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a66c2,50:ff3860,100:1a1b27&height=120&section=footer" width="100%" alt="footer wave">
