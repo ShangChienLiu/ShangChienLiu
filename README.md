@@ -24,7 +24,7 @@
 const shang = {
   name:      '劉尚謙 (637)',
   role:      ['AI engineer', 'indie builder'],
-  location:  'Taiwan 🇹🇼',
+  location:  'USA Bay Area',
   building:  ['Vispo', 'ai-dev-os', 'WhipIsland', '10heros'],
   learning:  ['agentic orchestration', 'LLM evals', 'robot policies'],
   playing:   ['table tennis 🏓', 'cracking whips at slow Claude'],
